@@ -1,0 +1,4 @@
+﻿  Laba6.cpp
+D:\C++\Laba6\Laba6.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Laba6\Laba6.cpp(17,48): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Laba6.vcxproj -> D:\C++\Laba6\Debug\Laba6.exe
